@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**sirenkovlad/sirenkovlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Vladyslav Sirenko — Aspiring L1 IT Support / Sysadmin
 
-Here are some ideas to get you started:
+📍 Warsaw, Poland | 🎯 Targeting Helpdesk / IT Support roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Documenting my transition into IT — Linux fundamentals, networking,
+troubleshooting, and scripting — one day at a time.
+
+**Currently learning:** Linux administration (Pop!_OS/Ubuntu) · Networking basics · SQL
+
+**Tech I work with:**
+`Windows 10/11` `Linux` `Bash` `Python (basic)` `SQL (basic)` `Active Directory fundamentals` `Microsoft 365`
+
+**Featured project:** [IT-Support-Help-Desk-Files]([link](https://github.com/sirenkovlad/IT-Support-Help-Desk-Files)) — Bash/Python automation scripts, troubleshooting KB articles, and SQL ticketing queries built as L1 support portfolio practice.
+
+📫 [LinkedIn]((https://www.linkedin.com/in/vladyslavsirenko/)) · Open to L1 IT Support / Helpdesk roles in Warsaw
