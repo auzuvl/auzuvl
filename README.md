@@ -1,14 +1,17 @@
-## Hi! 👋
+### Hi, I'm Vladyslav Sirenko 👋
 
-I'm Vladyslav Sirenko, aspiring L1 IT Support / Sysadmin. Documenting networking, troubleshooting, and scripting.
+Aspiring SOC-Analyst building hands-on skills through home labs
+and documented projects. Currently studying for Google Cybersecurity.
 
-**Currently learning:** Linux administration (Pop!_OS/Ubuntu) · Networking basics · SQL
+🔍 **Currently focused on:** SOC Detection Engineering
 
-**Tech I work with:**
-`Windows 10/11` `Linux` `Bash` `Python (basic)` `SQL (basic)` `Active Directory fundamentals` `Microsoft 365`
+🛠️ **Tools I work with: ** SQL, Python, PowerShell
 
-**Featured project:** [IT-Support-Help-Desk-Files](https://github.com/sirenkovlad/IT-Support-Help-Desk-Files): Bash/Python automation scripts, troubleshooting KB articles, and SQL ticketing queries built as L1 support portfolio practice.
+📂 **Featured Projects:**
+- [Project 1 Name](link) — one-line description
+- [Project 2 Name](link) — one-line description
+- [Project 3 Name](link) — one-line description
 
-##
+📝 **I write about what I learn:** [link to blog if you have one]
 
-📫 [LinkedIn](https://www.linkedin.com/in/vladyslavsirenko/) · Open to L1 IT Support / Helpdesk roles in Warsaw.
+📬 **Let's connect:** https://www.linkedin.com/in/vladyslavsirenko/
